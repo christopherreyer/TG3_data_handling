@@ -1,0 +1,15 @@
+#
+# gridID 1
+#
+gridtype  = lonlat
+gridsize  = 1
+xsize     = 1
+ysize     = 1
+xname     = lon
+xlongname = "longitude"
+xunits    = "degrees_east"
+yname     = lat
+ylongname = "latitude"
+yunits    = "degrees_north"
+xvals     = _LON_
+yvals     = _LAT_
